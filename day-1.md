@@ -13,7 +13,7 @@ ___test to see__ markdown formats_
 Titulo|Novedad
 -|-
 Titulo<br/>organigrama<br/>_italica_|Nada que decir
-kvkvn|nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+kvkvn|<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 ```bash
 git clone https://github.com/skills/communicate-using-markdown
@@ -23,9 +23,7 @@ git clone https://github.com/skills/communicate-using-markdown
 var myVar = "Hello, world!";
 ```
 
-```java
-String myVar = "Hello, world!";
-if (myVar.equals("hello, world)) {
-   system.out.println("Funciono");
-}
-```
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
