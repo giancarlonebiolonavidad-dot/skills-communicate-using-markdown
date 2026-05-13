@@ -27,3 +27,7 @@ var myVar = "Hello, world!";
 
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
+1) primera tarea
+1) segunda tarea
+1) tercera tarea
+
