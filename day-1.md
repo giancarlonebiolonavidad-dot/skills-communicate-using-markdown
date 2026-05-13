@@ -14,3 +14,18 @@ Titulo|Novedad
 -|-
 Titulo<br/>organigrama<br/>_italica_|Nada que decir
 kvkvn|nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+
+```js
+var myVar = "Hello, world!";
+```
+
+```java
+String myVar = "Hello, world!";
+if (myVar.equals("hello, world)) {
+   system.out.println("Funciono");
+}
+```
